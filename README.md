@@ -3,3 +3,5 @@ These data were derived from a digitisation of a scanned and georectified image 
 These data were compiled as a collaborative and educational project by Sander Van Lanen, Dermot Frost, Gerard McCarthy and Eoin O'Mahony.
 
 This repo is composed of GeoJSON, SHP (as .zips) and GeoPackage versions of both stations and lines. The lines are style using a <smooth($geometry, 3)> function with QGIS.  The metadata file is also included separately and within each file. 
+
+Version 1: October 2020. 
